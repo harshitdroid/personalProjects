@@ -4,7 +4,7 @@
  *ignores case and space
  */
 import java.util.Scanner;
-public class PalindromeTester
+public class AdvancedPalindromeTester
 {
    public static void main(String[] args)
    {
